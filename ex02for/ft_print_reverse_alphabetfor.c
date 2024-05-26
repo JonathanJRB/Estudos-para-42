@@ -1,10 +1,5 @@
 #include <unistd.h>
 
-int main(){
-ft_print_reverse_alphabetfor();
-
-}
-
 void ft_print_reverse_alphabetfor(void){
 
 char letras;
