@@ -1,13 +1,5 @@
 #include <unistd.h>
 
-int main(){
-
-ft_print_comb();
-
-
-
-}
-
 void ft_3numeros(char n1,char n2,char n3){
 
 write(1,&n1,1);
